@@ -2,6 +2,7 @@
 <Resources Culture="ru-RU">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Початок" />
 			<Item Name="BaseElements.TerminateEvent1.Caption" Value="End" />
 			<Item Name="Caption" Value="Test BP" />
 		</Items>
