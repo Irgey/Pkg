@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrVwContactAgeDays" />
+			<Item Name="Columns.UsrAgeDays.Caption" Value="Вік у днях" />
+			<Item Name="Columns.UsrBirthDate.Caption" Value="Дата народження" />
+			<Item Name="Columns.UsrName.Caption" Value="ПІБ" />
+		</Items>
+	</Group>
+</Resources>

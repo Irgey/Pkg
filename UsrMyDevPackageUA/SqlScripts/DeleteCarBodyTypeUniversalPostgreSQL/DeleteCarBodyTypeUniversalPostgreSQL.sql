@@ -1,0 +1,2 @@
+DELETE FROM "UsrCarBodyType"
+WHERE "Id"='304d28d3-6289-4d27-acd3-ae79f7d8f691';
