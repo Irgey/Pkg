@@ -85,6 +85,19 @@
           "A4": "a18e573b-d7c5-439a-9b1a-72109ac0eba2",
           "A5": "925a7d3f-8159-4c41-b1eb-ca05033bd3c2",
           "S2": "23018567-a13c-4320-8687-fd6f9e3699bd"
+        },
+        {
+          "UId": "098fac0a-4402-3516-06e7-1b5067854442",
+          "A2": "UsrContact",
+          "A3": "a18e573b-d7c5-439a-9b1a-72109ac0eba2",
+          "A4": "a18e573b-d7c5-439a-9b1a-72109ac0eba2",
+          "A5": "925a7d3f-8159-4c41-b1eb-ca05033bd3c2",
+          "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "E6": true,
+          "E20": true,
+          "E17": "UsrContactId",
+          "E18": "UsrContactName"
         }
       ],
       "D6": [],

@@ -5,6 +5,7 @@
 			<Item Name="Caption" Value="UsrVwContactAgeDays" />
 			<Item Name="Columns.UsrAgeDays.Caption" Value="Вік у днях" />
 			<Item Name="Columns.UsrBirthDate.Caption" Value="Дата народження" />
+			<Item Name="Columns.UsrContact.Caption" Value="Контакт" />
 			<Item Name="Columns.UsrName.Caption" Value="ПІБ" />
 		</Items>
 	</Group>
