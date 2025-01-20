@@ -2,7 +2,7 @@
 <Resources Culture="ru-RU">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Недвижимость (Настройка страниц)" />
+			<Item Name="Caption" Value="Недвижимость (Настройка страницы)" />
 		</Items>
 	</Group>
 </Resources>
