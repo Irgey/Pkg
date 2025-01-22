@@ -16,6 +16,7 @@
 = MetaData.Schema.EG1.BK3 []
 = MetaData.Schema.EG1.BK4 []
 + MetaData.Schema.D24 true
++ MetaData.Schema.D15 true
 = MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
 + MetaData.Schema.D29 "null"
 + MetaData.Schema.D30 "null"
