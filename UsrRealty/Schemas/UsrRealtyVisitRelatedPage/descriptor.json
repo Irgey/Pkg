@@ -4,6 +4,7 @@
     "Name": "UsrRealtyVisitRelatedPage",
     "ModifiedOnUtc": "\/Date(1737508448000)\/",
     "ManagerName": "AddonSchemaManager",
-    "Caption": "Просмотр недвижимости (Настройка страницы)"
+    "Caption": "Просмотр недвижимости (Настройка страницы)",
+    "DependsOn": []
   }
 }

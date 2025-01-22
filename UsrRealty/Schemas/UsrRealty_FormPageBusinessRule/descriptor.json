@@ -4,6 +4,7 @@
     "Name": "UsrRealty_FormPageBusinessRule",
     "ModifiedOnUtc": "\/Date(1737415808000)\/",
     "ManagerName": "AddonSchemaManager",
-    "Caption": "Страница записи Недвижимость (Бизнес правила)"
+    "Caption": "Страница записи Недвижимость (Бизнес правила)",
+    "DependsOn": []
   }
 }
