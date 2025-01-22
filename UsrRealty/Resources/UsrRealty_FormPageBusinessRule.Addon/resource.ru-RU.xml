@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.5867abf5-bdd0-9071-c058-0d6dff43fbc3.Caption" Value="Показать элементы: Комментарий" />
+			<Item Name="Caption" Value="Страница записи Недвижимость (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>

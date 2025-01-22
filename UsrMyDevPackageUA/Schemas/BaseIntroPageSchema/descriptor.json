@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d39c1523-abe8-4765-8801-5c0a3cdbfa3d",
+    "Name": "BaseIntroPageSchema",
+    "ModifiedOnUtc": "\/Date(1737503219000)\/",
+    "Parent": {
+      "UId": "965b3e29-c42b-456f-90e0-8733809d280d",
+      "Name": "BaseIntroPageSchema"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "BaseIntroPageSchema"
+  }
+}

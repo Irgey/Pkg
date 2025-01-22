@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.7631b94f-c57e-a0a8-a698-35b41e534209.Caption" Value="Применить фильтр: Город" />
+			<Item Name="AddonConfig.Rules.8ffdf480-f9e9-20f0-b079-ac3d16f08323.Caption" Value="ChildRule-7631b94f-c57e-a0a8-a698-35b41e534209-ClearValue" />
+			<Item Name="AddonConfig.Rules.e0ca495b-4d01-7fc6-a99b-2e914b4d7ea6.Caption" Value="ChildRule-7631b94f-c57e-a0a8-a698-35b41e534209-PopulateValue" />
+			<Item Name="AddonConfig.Rules.e23a9385-27de-0993-4407-4997d2e13126.Caption" Value="Установить статический фильтр: Менеджер" />
+			<Item Name="Caption" Value="Недвижимость (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>

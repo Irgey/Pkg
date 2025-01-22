@@ -3,9 +3,22 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Недвижимость form page" />
+			<Item Name="LocalizableStrings.addRecord_1xj4oul_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_3m0asag_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_54z6lm5_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_k86mcj9_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_xwneups_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area must be not less than 10 m2." />
+			<Item Name="LocalizableStrings.ExpansionPanel_j3yvdnz_title.Value" Value="Просмотр недвижимости" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_dou17lp_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_bi6ymqi_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_o8fna31_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_682sdyl_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_qig7qsk_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_8s21f25_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.NumberInput_7h04r7w_label.Value" Value="Число" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50 USD." />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
 </Resources>
