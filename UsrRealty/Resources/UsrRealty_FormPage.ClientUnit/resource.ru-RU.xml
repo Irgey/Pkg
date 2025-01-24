@@ -9,6 +9,8 @@
 			<Item Name="LocalizableStrings.addRecord_k86mcj9_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_xwneups_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Площадь быть не менее 10 м2." />
+			<Item Name="LocalizableStrings.ButtonMenuWithItems_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.CalcAvgPriceMenuItem_caption.Value" Value="Запуск процесса расчета средней цены" />
 			<Item Name="LocalizableStrings.ExpansionPanel_j3yvdnz_title.Value" Value="Просмотр недвижимости" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_dou17lp_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.GridDetailExportDataBtn_bi6ymqi_caption.Value" Value="Экспорт в Excel" />

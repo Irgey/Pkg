@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "04b7a7ff-7c07-d26c-56e4-640c911eb568",
+    "Name": "EnableTRSysAdminUnitRootPostgre",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1737683592000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

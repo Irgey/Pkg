@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Контрагент" />
+			<Item Name="Columns.AccountCategory.Caption" Value="Категорія" />
+			<Item Name="Columns.AccountLogo.Caption" Value="Логотип контрагента" />
+			<Item Name="Columns.AdditionalPhone.Caption" Value="Додатковий телефон" />
+			<Item Name="Columns.Address.Caption" Value="Адреса" />
+			<Item Name="Columns.AddressType.Caption" Value="Тип адреси" />
+			<Item Name="Columns.AlternativeName.Caption" Value="Альтернативні назви" />
+			<Item Name="Columns.AnnualRevenue.Caption" Value="Річний оборот" />
+			<Item Name="Columns.AUM.Caption" Value="AUM" />
+			<Item Name="Columns.City.Caption" Value="Місто" />
+			<Item Name="Columns.Code.Caption" Value="Код" />
+			<Item Name="Columns.Completeness.Caption" Value="Повнота наповнення даними" />
+			<Item Name="Columns.Country.Caption" Value="Країна" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Створив" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Дата створення" />
+			<Item Name="Columns.EmployeesNumber.Caption" Value="Кількість співробітників" />
+			<Item Name="Columns.Fax.Caption" Value="Факс" />
+			<Item Name="Columns.GPSE.Caption" Value="GPS E" />
+			<Item Name="Columns.GPSN.Caption" Value="GPS N" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.Industry.Caption" Value="Галузь" />
+			<Item Name="Columns.LeadConversionScore.Caption" Value="Рейтинг конверсії лідів" />
+			<Item Name="Columns.Logo.Caption" Value="Логотип компанії" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Змінив" />
+			<Item Name="Columns.ModifiedOn.Caption" Value="Дата змінення" />
+			<Item Name="Columns.Name.Caption" Value="Назва" />
+			<Item Name="Columns.Notes.Caption" Value="Нотатки" />
+			<Item Name="Columns.Owner.Caption" Value="Відповідальний" />
+			<Item Name="Columns.Ownership.Caption" Value="Форма власності" />
+			<Item Name="Columns.Parent.Caption" Value="Головний контрагент" />
+			<Item Name="Columns.Phone.Caption" Value="Основний телефон" />
+			<Item Name="Columns.PriceList.Caption" Value="Прайс-лист" />
+			<Item Name="Columns.PrimaryContact.Caption" Value="Основний контакт" />
+			<Item Name="Columns.ProcessListeners.Caption" Value="Активні процеси" />
+			<Item Name="Columns.Region.Caption" Value="Область/штат" />
+			<Item Name="Columns.Type.Caption" Value="Тип" />
+			<Item Name="Columns.Web.Caption" Value="Інтернет" />
+			<Item Name="Columns.Zip.Caption" Value="Індекс" />
+		</Items>
+	</Group>
+</Resources>

@@ -3,9 +3,10 @@
     "UId": "60253081-1ffb-4e33-8963-7428a61529c1",
     "Name": "UsrRealty",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "ModifiedOnUtc": "\/Date(1737588635000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrRealty.csproj",
+    "Description": "just for modify date",
     "DependsOn": [
       {
         "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
@@ -14,9 +15,50 @@
         "Type": 1
       },
       {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
         "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
         "PackageVersion": "7.8.0",
         "Name": "ProductCore"
+      },
+      {
+        "UId": "33516fc5-1c52-ed30-264b-a3cbcd3d1b33",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtOrderContractInC360",
+        "Type": 1,
+        "InstallBehavior": 1
+      },
+      {
+        "UId": "3f8d4a5e-a1cd-625a-8143-d26ec18bb188",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLeadOppMgmtInC360",
+        "Type": 1,
+        "InstallBehavior": 1
+      },
+      {
+        "UId": "6ea32650-c611-c103-15bf-0c2f8441d954",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtInvoiceInC360",
+        "Type": 1,
+        "InstallBehavior": 1
+      },
+      {
+        "UId": "8073e9c8-edb1-3d73-2e54-55b005de61ec",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLAInC360",
+        "Type": 1,
+        "InstallBehavior": 1
+      },
+      {
+        "UId": "df07531c-770a-d4c0-4b8f-d97659a810f6",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtOpportunityInC360",
+        "Type": 1,
+        "InstallBehavior": 1
       }
     ]
   }

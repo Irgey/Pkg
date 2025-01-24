@@ -58,6 +58,7 @@
 + MetaData.Schema.D29 "null"
 + MetaData.Schema.D30 "null"
 + MetaData.Schema.D31 "null"
++ MetaData.Schema.D38 true
 + MetaData.Schema.D2 {
   "UId": "eefd97d8-cba9-5240-55f9-f521f0b9d4e5",
   "A2": "UsrManager",
